@@ -1,0 +1,15 @@
+# FileTidy
+
+Offline Windows file organizer with safe category preview and one-step undo.
+
+## Windows downloads
+- Installer: https://github.com/amirhoseinteras/filetidy-desktop/releases/latest/download/FileTidy-Setup.exe
+- Portable ZIP: https://github.com/amirhoseinteras/filetidy-desktop/releases/latest/download/FileTidy-Portable.zip
+- SHA-256 checksums: https://github.com/amirhoseinteras/filetidy-desktop/releases/latest
+
+Unsigned binaries may show a Windows SmartScreen warning. Always verify the release checksums.
+
+## Source, documentation and support
+- Instructions, requirements, license and limitations: https://github.com/amirhoseinteras/filetidy-desktop#readme
+- Report issues: https://github.com/amirhoseinteras/filetidy-desktop/issues
+- Source code and reproducible build instructions: https://github.com/amirhoseinteras/filetidy-desktop
